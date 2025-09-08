@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-latest-orange.svg)
 ![Pandas](https://img.shields.io/badge/pandas-latest-green.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 *An intelligent machine learning system for accurate housing price prediction*
 
@@ -357,11 +356,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 👨‍💻 Author
 
